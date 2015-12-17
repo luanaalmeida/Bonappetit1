@@ -1,0 +1,46 @@
+
+<resources>
+    <string name="app_name">Bon Appetit</string>
+    <string name="txtEmail">Email</string>
+    <string name="txtSenha">Senha</string>
+    <string name="btEntrar">Entrar</string>
+    <string name="btCriar_login">Criar uma conta</string>
+    <string name="title_activity_criar_conta">Criar Conta</string>
+    <string name="txtNome">Nome</string>
+    <string name="txtTelefone">Telefone</string>
+    <string name="txtEmail_Conta">Email</string>
+    <string name="txtSenha_Conta">Senha</string>
+    <string name="txtNovamente_Senha">Digite Novamente a Senha</string>
+    <string name="Cadastrarbt">Cadastrar</string>
+    <string name="title_activity_menu">Menu</string>
+    <string name="txtMenu">Menu</string>
+    <string name="bt_Pratos">Pratos</string>
+    <string name="bt_Sobremesas">Sobremesas</string>
+    <string name="bt_Bebidas">Bebidas</string>
+    <string name="bt_MeuPedido">Meu Pedido</string>
+    <string name="title_activity_pratos">Pratos</string>
+    <string name="txtCarne">Carne ao molho Madeira</string>
+    <string name="txtIngCarne">Carne, molho madeira, castanha e salsinha</string>
+    <string name="btFazerPedido">Fazer Pedido</string>
+    <string name="txtPicadinho">Picadinho à jardineira</string>
+    <string name="txtIngPicadinho">Alcatra em cubos, Arroz, Legumes e Azeite</string>
+    <string name="title_activity_sobremesas">Sobremesas</string>
+    <string name="txtRocambole">Rocambole de chocolate com doce de leite</string>
+    <string name="txtIngRocambole">Sorvete de doce de Leite, calda de chocolate e rocambole de chocolate amargo</string>
+    <string name="txttaçaUruguaia">Taça Uruguaia</string>
+    <string name="txtIngtaçaUruguaia">Doce de leite, Nata, Sorvete de creme, Pêssego em calda, Merengue e Cobertura de caramelo</string>
+    <string name="title_activity_bebidas">Bebidas</string>
+    <string name="txtCerveja">Skol Beats Sense 330 ml</string>
+    <string name="txtCoca">Coca Cola 237 ml</string>
+    <string name="valorCoca">Valor:</string>
+    <string name="title_activity_meus_pedido">MeusPedido</string>
+    <string name="title_activity_pedido1">Pedido1</string>
+    <string name="title_activity_pedido_carne">PedidoCarne</string>
+    <string name="Porcao">Quantidade:</string>
+    <string name="ValorCarne">Valor: R$ 25,00</string>
+    <string name="Somar">valor do pedido</string>
+    <string name="valorTotal">Valot total:</string>
+    <string name="bt_MaisPedidos">Fazer Mais Pedidos</string>
+    <string name="bt_IrMenu">Ver meu pedido</string>
+
+</resources>
